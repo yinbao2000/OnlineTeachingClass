@@ -1,1 +1,1 @@
-# This folder should contain design documentations */
+# This folder should contain design documentations #
